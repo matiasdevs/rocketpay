@@ -17,6 +17,10 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 
 <br>
 
+## 💻 Projeto
+
+O Rocketpay é um componente que simula o formulário de preenchimento de cartão de crédito, onde é possível adicionar máscara aos inputs e atualizar elementos HTML via DOM. Você pode visualizar a live através [DESSE LINK](https://rocketpay-lilac.vercel.app/).
+
 <p align="center">
   <img alt="rocketpay" src=".github/project.png" width="100%">
 </p>
@@ -30,10 +34,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Node e NPM](https://nodejs.org/)
 - [Vite](https://vitejs.dev/)
 - [iMask](https://imask.js.org)
-
-## 💻 Projeto
-
-O Rocketpay é um componente que simula o formulário de preenchimento de cartão de crédito, onde é possível adicionar máscara aos inputs e atualizar elementos HTML via DOM.
 
 ## 🔖 Layout
 
